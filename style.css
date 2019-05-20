@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	font-size: 14px;
+	color: #333333;
+}
+
+#login-button {
+	width: 200px;
+	margin: 50px auto;
+	display: block;
+}
+
+#user-information {
+	width: 400px;
+	display: none;
+	margin: 50px auto;
+}
+
+#user-information div {
+	margin: 0 0 20px 0;
+}
+
+#user-information div label {
+	display: inline-block;
+	vertical-align: middle;
+	width: 100px;
+	font-weight: 700;
+}
+
+#user-information div span {
+	display: inline-block;
+	vertical-align: middle;
+}
